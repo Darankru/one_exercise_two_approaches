@@ -1,0 +1,12 @@
+{
+    "name": "Jack",
+    "age": 25,
+    "city": "Berlin",
+    "tree_node_list": [
+        "leaf_1", "leaf_2", "leaf_3"
+    ],
+    "tree_node_dict": {
+        "leaf_1": "value_1", "leaf_2": "value_2"
+    }
+
+}

@@ -1,0 +1,22 @@
+{
+    "0": {
+        "services_list": [
+            "service_19263"
+        ],
+        "resources_dict": {
+            "cpu_capacity": 0,
+            "ram_capacity": 0,
+            "network_capacity": 0
+        }
+    },
+    "1": {
+        "services_list": [
+            "service_639281"
+        ],
+        "resources_dict": {
+            "cpu_capacity": 2,
+            "ram_capacity": 2,
+            "network_capacity": 2
+        }
+    }
+}
